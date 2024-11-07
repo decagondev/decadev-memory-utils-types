@@ -1,0 +1,17 @@
+{
+  "name": "@types/deca-memory-utils",
+  "version": "1.0.0",
+  "description": "Type definitions for the deca-memory-utils library",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/decagondev/deca-memory-utils-types.git"
+  },
+  "keywords": [
+    "types",
+    "deca-memory-utils"
+  ],
+  "author": "Tom Tarpey (decagondev)",
+  "license": "MIT"
+}
