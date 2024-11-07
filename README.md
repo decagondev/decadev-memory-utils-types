@@ -1,0 +1,1 @@
+# decadev-memory-utils-types
